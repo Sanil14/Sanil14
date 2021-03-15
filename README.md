@@ -14,11 +14,11 @@ My name is Sanil Jalan, I am 19 and the COO of [Fight LLC](https://fighttm.com).
 - [Spark Framework](https://github.com/Spark-Core/Spark) - Contributed to a Discord.JS Framework intended for beginners to create discord bot easily.
 - [FT Dashboard](https://falconites.com) - Dashboard made using PHP for gaming community to track jobs and announcements saved in MySQL.
 - [FT Desktop App](https://falconites.com) - Desktop Application made using Electron used to automatically detect jobs ingame and save it in MySQL.
-- [Quika V2](http://quikabot.com) - Attempted to revive Quika with a custom dashboard made in React and a complex permissions system for public discord servers.
+- [Quika V2](http://quikabot.com) - Attempted to revive Quika with a custom dashboard made in React and a complex permissions system for discord servers.
 
 ### Contact Me 📫 
 
-I am available via: 
+I am available via:<br />
 Discord - **Sanil#2634**<br />
 Email - **saniljalan14@gmail.com**<br />
 LinkedIn - [Sanil Jalan](https://www.linkedin.com/in/sanil-jalan/)
