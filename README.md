@@ -5,7 +5,7 @@
 My name is Sanil Jalan, I am 19 and the COO of [Fight LLC](https://fighttm.com). I have been coding since I was 15.
 
 ### Current Projects 🔭
-- [Fight](https://fighttm.com) - A social media and tournament hosting platform for gamers made using MERN stack.
+- [Fight](https://fighttm.com) - A social media and game recording platform for gamers made using MERN stack.
 - [Personal Site](https://sanil14.github.io/website) - Personal Website
 
 ### Past Projects (Discontinued) 🎞️
