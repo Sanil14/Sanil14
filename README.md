@@ -24,4 +24,4 @@ My name is Sanil Jalan, I am 19 and the COO of [Fight LLC](https://fighttm.com).
 
 ### Github Metrics 📊
 
-![Metrics](https://github.com/Sanil14/Sanil14/blob/main/github-metrics.svg)
+![Metrics](github-metrics.svg)
