@@ -21,3 +21,7 @@ My name is Sanil Jalan, I am 19 and the COO of [Fight LLC](https://fighttm.com).
 - Discord - **Sanil#2634**
 - Email - **saniljalan14@gmail.com**
 - LinkedIn - [**Sanil Jalan**](https://www.linkedin.com/in/sanil-jalan/)
+
+### Github Metrics 📊
+
+![Metrics](https://github.com/Sanil14/Sanil14/blob/main/github-metrics.svg)
