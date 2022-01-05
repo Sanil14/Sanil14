@@ -20,11 +20,15 @@ jobs:
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          extras_css: |
+            footer {
+              display: none;
+            }
 
           # Options
           user: Sanil14
           template: classic
-          base: header, activity, metadata
+          base: header, activity
           config_timezone: Europe/London
           
           plugin_languages: yes
