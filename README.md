@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/265492092720119814/820954537648717824/Sanil_Jalan_LinkedIn_Banner_Slim.png)
+![Banner](banner.png)
 
 ### Hi there 👋
 
