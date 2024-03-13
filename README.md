@@ -2,14 +2,12 @@
 
 ### Hi there 👋
 
-My name is Sanil Jalan, I am 22 and the COO of [Fight LLC](https://fighttm.com). I have been coding since I was 15.
+My name is Sanil Jalan, I am 22. I have been coding since I was 15.
 
-### Current Projects 🔭
+### My Portfolio 🎞️
+
+- [HeatWise](https://heatwise.live) - A project to visualise spatial-temporal heat demand across England and Wales
 - [Fight](https://fighttm.com) - A social media and game recording platform for gamers made using MERN stack.
-- Personal Site - Personal Website (Coming Soon)
-
-### Past Projects (Discontinued) 🎞️
-
 - [Quika V2](https://github.com/Sanil14/QuikaV2-Dashboard) - Attempted to revive Quika with a custom dashboard made in React and a complex permissions system for discord servers.
 - [FT Dashboard](https://github.com/Sanil14/FT-Job-Logger/tree/dashboard) - Dashboard made using PHP for gaming community to track game events and announcements saved in MySQL.
 - [FT Desktop App](https://github.com/Sanil14/FT-Job-Logger) - Desktop Application made using Electron used to automatically detect events ingame and save it in MySQL.
