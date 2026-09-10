@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Sanil Jalan, I am 22. I have been coding since I was 15.
+My name is Sanil Jalan, I am 24. I have been coding since I was 15.
 
 ### My Portfolio 🎞️
 
@@ -16,10 +16,11 @@ My name is Sanil Jalan, I am 22. I have been coding since I was 15.
 
 ### Contact Me 📫 
 
-- Discord - **Sanil#2634**
 - Email - **saniljalan14@gmail.com**
 - LinkedIn - [**Sanil Jalan**](https://www.linkedin.com/in/sanil-jalan/)
 
+<!-- 
 ### Github Metrics 📊
 
 ![Metrics](github-metrics.svg)
+-->
